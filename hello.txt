@@ -1,3 +1,2 @@
+Hello from the practice-conflict branch
 
-Hello from the both branches - conflict resolved!
-This is a new feature
