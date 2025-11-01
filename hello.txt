@@ -1,2 +1,2 @@
-Hello DevOps World!
+Hello from the conflict branch!
 This is a new feature
