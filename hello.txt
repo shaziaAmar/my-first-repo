@@ -1,3 +1,2 @@
 
-Hello from the both branches - conflict resolved!
-This is a new feature
+Hello from the main branch!
